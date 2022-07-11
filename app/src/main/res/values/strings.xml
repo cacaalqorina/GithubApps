@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">githubapps</string>
+    <string name="splashscreen">Welcome To Github App</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="followers">Followers</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="repository">Repository</string>
+    <string name="following">Following</string>
+    <string name="us1">Followers</string>
+    <string name="us2">Following</string>
+    <string name="content_description">yeah! click me! I have a description</string>
+    <string name="user">User</string>
+    <string name="search">Search</string>
+    <string name="fav">My Favorite</string>
+    <string name="darkmode">Dark Mode</string>
+    <string name="favorite_User">User Favorite</string>
+
+
+</resources>
